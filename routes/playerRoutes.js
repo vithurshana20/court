@@ -1,9 +1,9 @@
-import express from 'express';
+// import express from 'express';
 
-const router = express.Router();
+// const router = express.Router();
 
-router.get('/dashboard', (req, res) => {
-  res.send('Player dashboard');
-});
+// router.get('/dashboard', (req, res) => {
+//   res.send('Player dashboard');
+// });
 
-export default router;
+// export default router;
